@@ -1,0 +1,104 @@
+body {
+    background-image: url("https://www.rackspace.com/sites/default/files/article-images/blog_427.jpg");
+}
+
+.body2 {
+    background: #788585;
+}
+
+nav.crumb {
+    text-align: right;
+}
+
+.links {
+    font-size: 40px;
+    color: white;
+}
+
+.workout-link {
+    text-align: right;
+    color: #CCDAD1;
+}
+
+div.form {
+   
+
+    display: block;
+    text-align: center;
+}
+
+div.input-section{
+    padding-top: 60px;
+}
+
+
+form {
+    padding: 30px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.weight {
+    background-color: #CCDAD1;
+    padding: 2em;
+    border-radius: 10px;
+    border: 2px solid black;
+    vertical-align: middle;
+}
+
+.calculate {
+    background-color: #CCDAD1;
+    padding: 1.5em;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+.header {
+    padding: 10px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+.chart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.result {
+    color: #FFFFFF;
+    font-size: larger;
+}
+
+.header2 {
+    padding: 50px;
+    text-align: center;
+    background: #788585;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.bodybuilder {
+    position: absolute;
+    right: 10%;
+}
+
+.back {
+    padding-top: 0%;
+    
+    
+    border-radius: 10px;
+    
+    vertical-align: middle;
+}
+
+

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Do One More</title>
+</head>
+<body>
+
+   
+
+
+      <div class="form">
+    
+        <div class="header">
+        
+        <nav>
+            <link class="crumb"><a href="./workouts.html">Want to try new workouts?</a></link>
+        </nav>
+        
+        <h1 class="title">DO ONE MORE</h1>
+    </div>
+    
+    <div class="input-section">
+        <input placeholder="weight (lb)" id="weight" class="weight" onclick="clearMax()"/>
+        <input placeholder="reps" id="reps" class="weight"/>
+        <button id="calculate" class="calculate">CALCULATE 1RM</button>
+    </div>
+        <p id="result" class="result"></p>
+</div>
+
+<div>
+    <img src="http://s3.amazonaws.com/rapgenius/1380432888_149389511.png" class="chart">
+</div>
+   
+    <script src="./main.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</body>
+</html>
